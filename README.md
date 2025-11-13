@@ -150,22 +150,3 @@ jupyter notebook
 python data_cleaning_and_preprocessing.py
 ```
 
-6. **Check outputs**
-- `Titanic_Cleaned.csv` (if you enabled saving).  
-- Terminal / notebook for printed summaries and boxplots.
-
----
-
-## 📝 Tips & Next Steps
-- Feature engineering: extract titles from `Name` (Mr, Mrs, Miss), combine `SibSp` and `Parch` into family size, etc.  
-- Consider model‑based imputation (KNN/IterativeImputer) for better handling of missing data.  
-- If `Cabin` is important, consider extracting deck letter or flagging presence/absence.  
-- Use cross‑validation and try classifiers: LogisticRegression, RandomForestClassifier, XGBoost, etc.
-
----
-
-If you want, I can also:
-- Add screenshots of the notebook outputs to README.  
-- Create a `README_with_images.md` and embed the boxplot images (you'd need to upload images).  
-- Commit the README directly to your GitHub repo (if you provide repo access or a GitHub token).
-
