@@ -164,12 +164,6 @@ python data_cleaning_and_preprocessing.py
 
 ---
 
-## 📄 License & Author
-**Author:** Anami James  
-**License:** Add a license file if you want to open-source this project (e.g., MIT).
-
----
-
 If you want, I can also:
 - Add screenshots of the notebook outputs to README.  
 - Create a `README_with_images.md` and embed the boxplot images (you'd need to upload images).  
